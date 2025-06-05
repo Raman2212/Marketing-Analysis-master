@@ -30,5 +30,4 @@ Place `marketing_data.csv` in the same folder.
 - Source: `marketing_data.csv`
 - Cleaned to snake_case, outliers removed, missing values imputed.
 
-## Contact
-Questions? [Your Name], [your-email@example.com]
+
